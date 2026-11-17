@@ -1,5 +1,5 @@
 <div>
-  <a href="https://github.com/otavio-azevedo">
+  <a href="https://github.com/luisotavioazevedomaciel">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=otavio-azevedo&layout=compact&langs_count=20&theme=gotham"/>
 
 </div>
