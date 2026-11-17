@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/luisotavioazevedomaciel">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=otavio-azevedo&layout=compact&langs_count=20&theme=gotham"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=luisotavioazevedomaciel&layout=compact&langs_count=20&theme=gotham"/>
 
 </div>
   
@@ -31,7 +31,7 @@
   ##
   
 <div> 
-  <a href="https://www.linkedin.com/in/ot%C3%A1vioazevedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luisotavioazevedomaciel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:otavioazevedo7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
 </div>
   
